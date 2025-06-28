@@ -1,5 +1,8 @@
 # GiggleScript - Joke Generator
 
+**Author - Madu Lynnpeters Adaeze Chiziterem**
+**Web development student at GoMyCode**
+
 GiggleScript is a fun and interactive web app that delivers random jokes on demand using the  [API Ninjas Joke API](https://api-ninjas.com/api/jokes). It's a beginner-friendly project built with HTML, CSS, and JavaScript, designed to demonstrate API usage and DOM manipulation in a simple and playful way.
 
 ---
